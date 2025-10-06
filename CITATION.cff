@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Alif-1.0-8B-Instruct"
+message: "If you use this model, please cite our EMNLP 2025 paper."
+authors:
+  - family-names: Shafique
+    given-names: Muhammad Ali
+doi: 10.48550/arXiv.2501.12345
+version: "1.0"
+date-released: 2025-10-06
+license: MIT
