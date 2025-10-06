@@ -1,0 +1,17 @@
+You are asked to create a set of 20 sentiment analysis task instructions in Urdu. Each instruction should prompt the user to identify the sentiment in a given statement. Include various emotional contexts such as positive, negative, happiness, sadness, disappointment, excitement, neutrality, anger, or pride. Ensure the instruction sentences include indirect expressions of emotions (e.g., descriptions of events or experiences rather than direct emotional statements), neutral contexts with underlying tones that require inference. Use the format below:
+
+Instruction: {sentiment_analysis_instruction}
+Output: {correct_sentiment_category_with_reason}
+
+Here are the requirements:
+1. Strictly follow the format and ensure no spaces between tasks.
+2. Avoid repeating verbs for each instruction to maximize diversity.
+3. Do not hallucinate or provide inaccurate instructions.
+4. Include a few challenging tasks.
+5. Use diverse language in the instructions. For example, combine both questions and imperative sentences.
+6. Ensure that a GPT language model can complete the instruction. Do not request visual or audio outputs, nor ask the assistant to perform actions like setting reminders or waking you up, as these cannot be executed by the model.
+7. Each instruction should be 1 to 2 sentences long, and can either be an imperative or a question.
+8. Input should be "<noinput>" in the input field.
+9. The output should be an appropriate response to the instruction, with a maximum length of 300 words.
+
+List of 20 tasks:

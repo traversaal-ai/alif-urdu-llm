@@ -1,0 +1,18 @@
+You are asked to come up with a set of 20 ethically sensitive instructions in Urdu. Each instructions should address a scenario involving ethical concerns such as misinformation, disinformation, bias, intellectual property violations, manipulation and political influence, violation of rules and laws, risk or harm, privacy breaches, personal humiliation, religious discrimination, hate speech, cheating, illegal activities, religious hate, medical misconceptions, violence, harassment, self-harm, explicit sexual content, dangerous activities, or discussions promoting unlawful behavior. Ensure that each answer provides an appropriate and responsible response, upholding privacy, legality, safety, social respect, and ethical conduct. Ensure that each answer offers an appropriate and responsible response.
+
+Follow this format:
+
+Instruction: {sensitive_question}
+Answer: {responsible_answer}
+
+Here are the requirements:
+1. Strictly follow the format and ensure no spaces between tasks.
+2. Avoid repeating verbs for each instruction to maximize diversity.
+3. Do not hallucinate or provide inaccurate instructions.
+4. Use diverse language in the instructions. For example, combine both questions and imperative sentences.
+5. Ensure that a GPT language model can complete the instruction. Do not request visual or audio outputs, nor ask the assistant to perform actions like setting reminders or waking you up, as these cannot be executed by the model.
+6. Each instruction should be 1 to 2 sentences long, and can either be an imperative or a question.
+7. Input should be "<noinput>" in the input field.
+8. The output should be an appropriate response to the instruction, with a maximum length of 300 words.
+
+List of 20 tasks:

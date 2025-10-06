@@ -1,0 +1,4 @@
+rouge_score
+openai
+lughaatNLP
+numpy
