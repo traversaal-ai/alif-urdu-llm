@@ -2,7 +2,7 @@
 
 
 - Paper: In-progress
-- [Datasets](https://huggingface.co/datasets/large-traversaal/urdu-instruct) (UrduInstruct and Urdu Eval)
+- [Datasets](https://huggingface.co/datasets/large-traversaal/urdu-instruct) (UrduInstruct and UrduEval)
 - [Model](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct)
 - [Blog](https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/)
 - [Live Demo](https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct)
