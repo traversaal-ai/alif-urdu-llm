@@ -44,7 +44,7 @@ The Urdu-Instruct dataset is a high-quality multilingual synthetic corpus contai
 
 ### Category-wise Distribution
 
-| Category         | Train (51,686) | Test (1,084) |
+| category         | train (Urdu_Instruct) | test (Urdu-Eval) |
 |:-----------------|---------------:|--------------:|
 | Translation      | 10,001         | 161           |
 | Reasoning        | 9,590          | 170           |
