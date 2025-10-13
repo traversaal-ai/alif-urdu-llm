@@ -29,7 +29,7 @@ The Urdu-Instruct dataset is a high-quality multilingual synthetic corpus contai
 
 ## Citation
 
-If you find Curator Evals useful, do not forget to cite us!
+If you find this repository useful, do not forget to cite us!
 
 ```bash
 @article{ShafiqueAlif2025,
