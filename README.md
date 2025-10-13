@@ -4,29 +4,22 @@
 
 <br>
 
-<a href="https://arxiv.org/abs/2510.09051">
-  <img src="https://img.shields.io/badge/Paper-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
-</a>
-&nbsp;
-<a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct">
-  <img src="https://img.shields.io/badge/Datasets-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" alt="Datasets">
-</a>
-&nbsp;
-<a href="https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct">
-  <img src="https://img.shields.io/badge/Model-00BFFF?style=for-the-badge&logo=pytorch&logoColor=white" alt="Model">
-</a>
-&nbsp;
-<a href="https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/">
-  <img src="https://img.shields.io/badge/Blog-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog">
-</a>
-&nbsp;
-<a href="https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct">
-  <img src="https://img.shields.io/badge/Live%20Demo-32CD32?style=for-the-badge&logo=huggingface&logoColor=white" alt="Live Demo">
-</a>
+<p align="center">
+  <a href="https://arxiv.org/abs/2510.09051"><strong>[ 📄 Paper ]</strong></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct"><strong>[ 🗂️ Datasets ]</strong></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct"><strong>[ 🤖 Model ]</strong></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/"><strong>[ 📰 Blog ]</strong></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct"><strong>[ 🚀 Live Demo ]</strong></a>
+</p>
 
-<br><br>
+<br>
 
 </div>
+
 
 
 
