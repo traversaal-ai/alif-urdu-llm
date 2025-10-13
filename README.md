@@ -22,7 +22,7 @@
 
 
 
-
+<!--
 # Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation
 
 
@@ -30,7 +30,7 @@
 - [Datasets](https://huggingface.co/datasets/large-traversaal/urdu-instruct) (UrduInstruct and UrduEval)
 - [Model](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct)
 - [Blog](https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/)
-- [Live Demo](https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct)
+- [Live Demo](https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct) -->
 
 ## Abstract:
 
@@ -40,7 +40,11 @@ Developing a high-performing large language models (LLMs) for low-resource langu
 
 The Urdu-Instruct dataset is a high-quality multilingual synthetic corpus containing 51,686 training and 1,084 test examples. It was generated using GPT-4o under a modified self-instruction framework to improve instruction-following, reasoning, and bilingual understanding in Urdu. This dataset is part of the Alif-1.0-8B-Instruct project and was created by the Traversaal.AI Research Team. It supports seven essential Urdu-language tasks: Generation, Reasoning, Ethics, Question Answering, Translation, Classification, and Sentiment Analysis.
 
-| category         | train (51,686) | test (1,084) |
+<div align="center">
+
+### Category-wise Distribution
+
+| Category         | Train (51,686) | Test (1,084) |
 |:-----------------|---------------:|--------------:|
 | Translation      | 10,001         | 161           |
 | Reasoning        | 9,590          | 170           |
@@ -50,6 +54,9 @@ The Urdu-Instruct dataset is a high-quality multilingual synthetic corpus contai
 | Classification   | 4,662          | 152           |
 | Sentiment        | 4,347          | 152           |
 | **Total**        | **51,686**     | **1,084**     |
+
+</div>
+
 
 ## Alif-1.0-8B-Instruct
 Alif-1.0-8B-Instruct is a multilingual Urdu–English large language model built on Meta-Llama-3.1-8B. It was continued-pretrained on 200K Urdu Wikipedia articles and fine-tuned on 105K examples, including the Urdu-Instruct dataset. Using a modified self-instruct method, Alif improves Urdu reasoning, translation, and cultural understanding while retaining strong English fluency. Trained under $100 using LoRA adapters, Alif outperforms Llama-3.1-8B-Instruct, Qwen-2.5-7B, and Aya-Expanse-8B on Urdu benchmarks such as MGSM, AlpacaEval, and Dolly QA, achieving a 75.5 average score.
