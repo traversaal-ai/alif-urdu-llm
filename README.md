@@ -58,7 +58,7 @@ The Urdu-Instruct dataset is a high-quality multilingual synthetic corpus contai
 </div>
 
 
-## Alif-1.0-8B-Instruct
+## Alif-1.0-8B-Instruct Model
 Alif-1.0-8B-Instruct is a multilingual Urdu–English large language model built on Meta-Llama-3.1-8B. It was continued-pretrained on 200K Urdu Wikipedia articles and fine-tuned on 105K examples, including the Urdu-Instruct dataset. Using a modified self-instruct method, Alif improves Urdu reasoning, translation, and cultural understanding while retaining strong English fluency. Trained under $100 using LoRA adapters, Alif outperforms Llama-3.1-8B-Instruct, Qwen-2.5-7B, and Aya-Expanse-8B on Urdu benchmarks such as MGSM, AlpacaEval, and Dolly QA, achieving a 75.5 average score.
 
 ## Citation
