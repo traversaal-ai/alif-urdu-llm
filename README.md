@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2510.09051"><strong>[ Paper ]</strong></a>
+  <a href="https://arxiv.org/abs/2510.09051">[ Paper ]</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct"><strong>[ Datasets ]</strong></a>
   &nbsp;&nbsp;&nbsp;
