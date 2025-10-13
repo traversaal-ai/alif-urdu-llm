@@ -1,7 +1,7 @@
 # Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation
 
 
-- Paper: In-progress
+- [Paper](https://arxiv.org/abs/2510.09051)
 - [Datasets](https://huggingface.co/datasets/large-traversaal/urdu-instruct) (UrduInstruct and UrduEval)
 - [Model](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct)
 - [Blog](https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/)
@@ -15,7 +15,13 @@ Developing a high-performing large language models (LLMs) for low-resource langu
 
 If you find Curator Evals useful, do not forget to cite us!
 
-```
-In-progress
+```bash
+@article{ShafiqueAlif2025,
+  title        = {Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation},
+  author       = {Muhammad Ali Shafique and Kanwal Mehreen and Muhammad Arham and Maaz Amjad and Sabur Butt and Hamza Farooq},
+  journal      = {arXiv preprint arXiv:2510.09051},
+  year         = {2025},
+  url          = {https://arxiv.org/abs/2510.09051}
+}
 ```
 
