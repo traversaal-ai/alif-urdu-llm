@@ -1,18 +1,33 @@
 <div align="center">
 
-# Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation
+# 🕌 Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation
 
-[<kbd>Paper</kbd>](https://arxiv.org/abs/2510.09051)
-&nbsp;&nbsp;
-[<kbd>Datasets</kbd>](https://huggingface.co/datasets/large-traversaal/urdu-instruct)
-&nbsp;&nbsp;
-[<kbd>Model</kbd>](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct)
-&nbsp;&nbsp;
-[<kbd>Blog</kbd>](https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/)
-&nbsp;&nbsp;
-[<kbd>Live Demo</kbd>](https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct)
+<br>
+
+<a href="https://arxiv.org/abs/2510.09051">
+  <img src="https://img.shields.io/badge/Paper-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
+</a>
+&nbsp;
+<a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct">
+  <img src="https://img.shields.io/badge/Datasets-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" alt="Datasets">
+</a>
+&nbsp;
+<a href="https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct">
+  <img src="https://img.shields.io/badge/Model-00BFFF?style=for-the-badge&logo=pytorch&logoColor=white" alt="Model">
+</a>
+&nbsp;
+<a href="https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/">
+  <img src="https://img.shields.io/badge/Blog-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog">
+</a>
+&nbsp;
+<a href="https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct">
+  <img src="https://img.shields.io/badge/Live%20Demo-32CD32?style=for-the-badge&logo=huggingface&logoColor=white" alt="Live Demo">
+</a>
+
+<br><br>
 
 </div>
+
 
 
 # Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation
