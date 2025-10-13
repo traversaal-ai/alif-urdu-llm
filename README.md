@@ -1,19 +1,19 @@
 <div align="center">
 
-# 🕌 Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation
+# Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation
 
 <br>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2510.09051"><strong>[ 📄 Paper ]</strong></a>
+  <a href="https://arxiv.org/abs/2510.09051"><strong>[ Paper ]</strong></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct"><strong>[ 🗂️ Datasets ]</strong></a>
+  <a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct"><strong>[ Datasets ]</strong></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct"><strong>[ 🤖 Model ]</strong></a>
+  <a href="https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct"><strong>[ Model ]</strong></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/"><strong>[ 📰 Blog ]</strong></a>
+  <a href="https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/"><strong>[ Blog ]</strong></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct"><strong>[ 🚀 Live Demo ]</strong></a>
+  <a href="https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct"><strong>[ Live Demo ]</strong></a>
 </p>
 
 <br>
