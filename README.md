@@ -5,15 +5,15 @@
 <br>
 
 <p align="center">📄 
-  <a href="https://arxiv.org/abs/2510.09051">[ Paper ]</a>
+  <a href="https://arxiv.org/abs/2510.09051"> Paper </a>
   &nbsp;&nbsp;&nbsp;📊 
-  <a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct">[ Datasets ]</a>
+  <a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct"> Datasets </a>
   &nbsp;&nbsp;&nbsp;🤖 
-  <a href="https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct">[ Model ]</a>
+  <a href="https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct"> Model </a>
   &nbsp;&nbsp;&nbsp;📝 
-  <a href="https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/">[ Blog ]</a>
+  <a href="https://blog.traversaal.ai/announcing-alif-1-0-our-first-urdu-llm-outperforming-other-open-source-llms/"> Blog </a>
   &nbsp;&nbsp;&nbsp;🚀 
-  <a href="https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct">[ Live Demo ]</a>
+  <a href="https://huggingface.co/spaces/large-traversaal/Alif-1.0-8B-Instruct"> Live Demo </a>
 </p>
 
 <br>
