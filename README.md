@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">
+<p align="center">📄 
   <a href="https://arxiv.org/abs/2510.09051">[ Paper ]</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/datasets/large-traversaal/urdu-instruct">[ Datasets ]</a>
